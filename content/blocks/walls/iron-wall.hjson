@@ -1,0 +1,9 @@
+type: Wall
+name: Железная стена
+health: 2400
+size: 2
+requirements: [
+  iron/24
+]
+category: defense
+alwaysUnlocked: true
