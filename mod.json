@@ -1,0 +1,8 @@
+{
+	"name": "ore-mod",  
+	"displayName": "Руды",
+	"author": "[red]Aaron",
+	"description": "Мод добавляющий много нового контента.",
+	"version": "0.9.5",
+	"minGameVersion": 154
+}
