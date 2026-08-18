@@ -1,0 +1,10 @@
+type: item
+name: Raw Iron
+description: Raw iron.
+hardness: 1
+cost: 1.0
+color: 808080
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
